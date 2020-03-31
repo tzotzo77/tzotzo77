@@ -1,5 +1,5 @@
-print("Hello_1")
-print("Hello_2")
-123123123
-565
-777
+print("Hello_1")!
+print("Hello_2")!
+123123123!
+565!
+777!
